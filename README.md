@@ -21,5 +21,14 @@ Directions
 3. Pass by Gachibowli to lingampally on the Old Mumbai Highway.
 4. Take the third left and we can reach the destination.
 
+Menu Card
+
+- Deserts
+    - Gulab jamoon 
+    - Kaddu Ki Kheer
+- Biryani
+    - Special Chicken Biryani
+
+
 
 
